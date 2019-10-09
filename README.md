@@ -6,6 +6,8 @@
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/mailjet/laravel-mailjet/blob/master/LICENSE.md)
 [![Documentation](https://img.shields.io/badge/documentation-gh--pages-blue.svg)](https://mailjet.github.io/laravel-mailjet/)
 
+This is a fork of [mailjet/laravel-mailjet](https://github.com/mailjet/laravel-mailjet) with some modifications to make it compatible with Laravel v5.8.*
+
 Laravel package for handling Mailjet API v3 using this wrapper: <https://github.com/mailjet/mailjet-apiv3-php>
 
 It also provides a mailjetTransport for [Laravel mail feature](https://laravel.com/docs/master/mail)

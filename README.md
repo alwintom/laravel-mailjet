@@ -16,7 +16,7 @@ It also provides a mailjetTransport for [Laravel mail feature](https://laravel.c
 
 First, include the package in your dependencies:
 
-    composer require mailjet/laravel-mailjet
+    composer require alwintom/laravel-mailjet
 
 Then, you need to add some informations in your configuration files. You can find your Mailjet API key/secret [here](https://app.mailjet.com/account/api_keys)
 
